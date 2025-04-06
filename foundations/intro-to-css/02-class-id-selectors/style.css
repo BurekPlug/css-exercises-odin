@@ -1,5 +1,21 @@
 
 p {
-    color:pink;
+    background-color:pink;
     font-family: Veranda, DejaVu Sans, sans-serif;
+}
+
+#Number2 {
+    color:blue;
+    font-size:36px;
+}
+
+.Number3.spec {
+    font-size: 24px;
+}
+
+#Number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
 }
